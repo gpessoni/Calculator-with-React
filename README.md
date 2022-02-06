@@ -3,7 +3,6 @@
 
  This project is a calculator based on the Iphone calculator.<br>
  I used form this project the library called react, CSS and JavaScript</a> 
- 
 ## Image from the project
   <p align="center">
     <img src="https://github.com/gpessoni/Calculator-with-React/blob/main/Images%20from%20Project/1.PNG?raw=true">
